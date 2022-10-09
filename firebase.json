@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Ferrero Rocher",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
